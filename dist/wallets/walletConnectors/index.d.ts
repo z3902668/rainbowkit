@@ -19,4 +19,6 @@ import { trustWallet } from './trustWallet/trustWallet';
 import { walletConnectWallet } from './walletConnectWallet/walletConnectWallet';
 import { xdefiWallet } from './xdefiWallet/xdefiWallet';
 import { zerionWallet } from './zerionWallet/zerionWallet';
-export { argentWallet, bitskiWallet, braveWallet, coinbaseWallet, dawnWallet, imTokenWallet, injectedWallet, ledgerWallet, metaMaskWallet, mewWallet, omniWallet, phantomWallet, rabbyWallet, rainbowWallet, safeWallet, tahoWallet, trustWallet, okxWallet, walletConnectWallet, xdefiWallet, zerionWallet, };
+import { bitkeepWallet } from './bitkeepWallet/bitkeepWallet';
+import { tokenpocketWallet } from './tokenpocketWallet/tokenpocketWallet';
+export { argentWallet, bitskiWallet, braveWallet, coinbaseWallet, dawnWallet, imTokenWallet, injectedWallet, ledgerWallet, metaMaskWallet, mewWallet, omniWallet, phantomWallet, rabbyWallet, rainbowWallet, safeWallet, tahoWallet, trustWallet, okxWallet, walletConnectWallet, xdefiWallet, zerionWallet, bitkeepWallet, tokenpocketWallet, };
