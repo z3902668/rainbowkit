@@ -24,7 +24,7 @@ import {
   useChainModal,
   useConnectModal,
   useTransactionStore
-} from "./chunk-SWV6RFTG.js";
+} from "./chunk-UZT24SHU.js";
 import {
   lightTheme
 } from "./chunk-ATKR4544.js";
