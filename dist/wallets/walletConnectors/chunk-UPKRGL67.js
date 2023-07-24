@@ -1,9 +1,9 @@
 import {
-  getWalletConnectConnector
-} from "./chunk-XRTMZ3WL.js";
-import {
   isAndroid
 } from "./chunk-FJVNKOUD.js";
+import {
+  getWalletConnectConnector
+} from "./chunk-XRTMZ3WL.js";
 
 // src/wallets/walletConnectors/omniWallet/omniWallet.ts
 var omniWallet = ({

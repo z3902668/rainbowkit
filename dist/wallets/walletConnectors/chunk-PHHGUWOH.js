@@ -1,9 +1,9 @@
 import {
-  getWalletConnectConnector
-} from "./chunk-XRTMZ3WL.js";
-import {
   isAndroid
 } from "./chunk-FJVNKOUD.js";
+import {
+  getWalletConnectConnector
+} from "./chunk-XRTMZ3WL.js";
 
 // src/wallets/walletConnectors/zerionWallet/zerionWallet.ts
 import { InjectedConnector } from "wagmi/connectors/injected";

@@ -1,8 +1,8 @@
 import {
   metaMaskWallet
-} from "../chunk-GUGVJUKV.js";
-import "../chunk-XRTMZ3WL.js";
+} from "../chunk-P5PHXX6D.js";
 import "../chunk-FJVNKOUD.js";
+import "../chunk-XRTMZ3WL.js";
 export {
   metaMaskWallet
 };

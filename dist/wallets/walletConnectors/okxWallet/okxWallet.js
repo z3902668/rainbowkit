@@ -1,8 +1,8 @@
 import {
   okxWallet
-} from "../chunk-IWF2UGXU.js";
-import "../chunk-XRTMZ3WL.js";
+} from "../chunk-WZ622GBQ.js";
 import "../chunk-FJVNKOUD.js";
+import "../chunk-XRTMZ3WL.js";
 export {
   okxWallet
 };

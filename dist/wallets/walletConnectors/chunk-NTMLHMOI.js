@@ -1,9 +1,9 @@
 import {
-  getWalletConnectConnector
-} from "./chunk-XRTMZ3WL.js";
-import {
   isIOS
 } from "./chunk-FJVNKOUD.js";
+import {
+  getWalletConnectConnector
+} from "./chunk-XRTMZ3WL.js";
 
 // src/wallets/walletConnectors/walletConnectWallet/walletConnectWallet.ts
 var walletConnectWallet = ({
