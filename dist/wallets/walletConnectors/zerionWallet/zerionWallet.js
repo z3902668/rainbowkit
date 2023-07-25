@@ -1,8 +1,8 @@
 import {
   zerionWallet
-} from "../chunk-PHHGUWOH.js";
-import "../chunk-FJVNKOUD.js";
+} from "../chunk-HTKIWJCZ.js";
 import "../chunk-XRTMZ3WL.js";
+import "../chunk-FJVNKOUD.js";
 export {
   zerionWallet
 };

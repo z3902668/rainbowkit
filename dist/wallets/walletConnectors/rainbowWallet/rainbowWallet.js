@@ -1,8 +1,8 @@
 import {
   rainbowWallet
-} from "../chunk-QDAKLU2D.js";
-import "../chunk-FJVNKOUD.js";
+} from "../chunk-SBXGELEP.js";
 import "../chunk-XRTMZ3WL.js";
+import "../chunk-FJVNKOUD.js";
 export {
   rainbowWallet
 };
