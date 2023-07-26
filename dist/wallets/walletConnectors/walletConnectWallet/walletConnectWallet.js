@@ -1,8 +1,8 @@
 import {
   walletConnectWallet
-} from "../chunk-F4BEXEFT.js";
-import "../chunk-XRTMZ3WL.js";
+} from "../chunk-NTMLHMOI.js";
 import "../chunk-FJVNKOUD.js";
+import "../chunk-XRTMZ3WL.js";
 export {
   walletConnectWallet
 };

@@ -1,8 +1,8 @@
 import {
   argentWallet
-} from "../chunk-HAQKH6XL.js";
-import "../chunk-XRTMZ3WL.js";
+} from "../chunk-N6XPA3ET.js";
 import "../chunk-FJVNKOUD.js";
+import "../chunk-XRTMZ3WL.js";
 export {
   argentWallet
 };
