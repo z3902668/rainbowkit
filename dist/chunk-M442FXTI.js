@@ -530,8 +530,8 @@ var bscIcon = {
   iconUrl: async () => (await import("./bsc-SVDDT6HW.js")).default
 };
 var ethereumIcon = {
-  iconBackground: "#484c50",
-  iconUrl: async () => (await import("./ethereum-TCZSTHSI.js")).default
+  iconBackground: "transparent",
+  iconUrl: async () => (await import("./ethereum-TO7Z6BRL.js")).default
 };
 var hardhatIcon = {
   iconBackground: "#f9f7ec",
@@ -2389,7 +2389,7 @@ function ChainModal({ onClose, open }) {
       height: chainIconSize2,
       src: chainIconUrl,
       width: chainIconSize2
-    })) : null, /* @__PURE__ */ React36.createElement("div", null, chain.name)), isCurrentChain && /* @__PURE__ */ React36.createElement(Box, {
+    })) : null, /* @__PURE__ */ React36.createElement("div", null, chain.id === 56 ? "BNB Chain" : chain.name)), isCurrentChain && /* @__PURE__ */ React36.createElement(Box, {
       alignItems: "center",
       display: "flex",
       flexDirection: "row",
